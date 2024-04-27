@@ -32,3 +32,7 @@ $ yarn build:mac
 # For Linux
 $ yarn build:linux
 ```
+
+## References
+
+https://github.com/CodeWithGionatha-Labs/NoteMark
